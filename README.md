@@ -1,4 +1,4 @@
-# Image Test Assets
+# Image Tagging Test Images
 
 This repo contains example images and curated image URLs for testing the Image Tagging / Image Analysis workflows.
 
